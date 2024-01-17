@@ -1,6 +1,6 @@
 # Contributing to opentelemetry-go-instrumentation
 
-The Go Instrumnentation special interest group (SIG) meets regularly. See the
+The Go Instrumentation special interest group (SIG) meets regularly. See the
 OpenTelemetry
 [community](https://github.com/open-telemetry/community)
 repo for information on this and other language SIGs.
